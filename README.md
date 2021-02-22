@@ -1,3 +1,4 @@
+## NEW AND BETTER TITLE
 ## Teensy 4.1 ethernet :: https://forum.pjrc.com/threads/59776-Ethernet-and-lwip
 
 put this repo in your sketchbook/libraries/
